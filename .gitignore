@@ -1,0 +1,4 @@
+# eval run outputs
+evals/*/evals/results/
+run*.json
+.DS_Store
